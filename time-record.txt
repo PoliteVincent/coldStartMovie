@@ -1,0 +1,13 @@
+User-User CF: Generating Top-10 Hybrid Recs (userCF): 100%|██████████| 1000/1000 [00:17<00:00, 57.93it/s]
+Generated recommendations for 1000 users out of 1000 sampled.
+
+ALS: Top‑10 recs: 100%|██████████| 1000/1000 [00:00<00:00, 4330.34it/s]
+✅  Saved 693 users → predictions/als_top10_subset.json
+
+KNN: Top‑10 recs: 100%|██████████| 1000/1000 [00:18<00:00, 53.33it/s]
+✅  Saved 1000 users → predictions/knn_top10_subset.json
+
+CBF: Generating CBF Top-10: 100%|██████████| 1000/1000 [00:05<00:00, 186.79it/s]
+
+item-item CF: Generating Top-10 Hybrid Recs: 100%|██████████| 1000/1000 [00:13<00:00, 75.36it/s]
+Generated recommendations for 1000 users out of 1000 sampled.
